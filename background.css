@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100vh;
+    width: 100%;
+    padding: 150px;
+}
+
+/*
+background properties in all syntax
+div{
+    height: 50vh;
+    width: 100%;
+    background-color: yellow;
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center; 
+    background-attachment: scroll;
+}
+*/
+/*
+background shorthand
+div{
+    height: 500px;
+    width: 700px;
+    background: #ffffff url(images/bg.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin : content-box;
+}
+*/
+/*
+.container{
+  height: 50vh;
+  width: 90%;
+  border: 15px solid black;
+  background: url(images/teddy.jpg) no-repeat;
+  padding: 50px;
+  background-clip: content-box;
+}
+*/
